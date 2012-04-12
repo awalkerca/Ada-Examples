@@ -1,0 +1,6 @@
+project Sample is
+
+   for Main use ("sample.adb");
+
+end Sample;
+
